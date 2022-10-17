@@ -1,3 +1,3 @@
-# odin recipes
+# Odin Recipes
 
-This is a simple recipe website
+Simple recipe website create as the first project for "The Odin Project".
